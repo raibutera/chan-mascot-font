@@ -1,0 +1,17 @@
+{
+  "name": "chan-mascot-font",
+  "version": "0.1.0",
+  "authors": [
+    "Rai Butera <rai@rbutera.com>"
+  ],
+  "description": "Chan Font for Chan's Mascot!",
+  "main": "css/chans.css",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
